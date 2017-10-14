@@ -9,5 +9,4 @@ var connection = mysql.createConnection({
 });
 
 connection.connect();
-
 connection.end();
